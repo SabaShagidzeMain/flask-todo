@@ -56,6 +56,18 @@ h2 {
     font-size: 16px;
 }
 
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    resize: vertical;
+    max-height: 200px;
+    min-height: 60px;
+}
+
+
 .form-group label {
     display: block;
     margin-bottom: 5px;
